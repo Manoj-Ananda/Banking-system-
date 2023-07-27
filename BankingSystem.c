@@ -124,7 +124,7 @@ int main(){
                         fwrite(&usr,sizeof(struct user),1,fp);
                         if(fwrite != NULL)
                         printf("\nPassword succesfully changed");
-                    break;
+                        break;
                 default:
                     printf("\nInvalid option");
                 }                        
