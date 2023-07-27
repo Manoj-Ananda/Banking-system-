@@ -132,6 +132,7 @@ int main(){
                 scanf("%s",&cont);
             }
         }
+        }
         else {
             printf("\nInvalid password");
         }
